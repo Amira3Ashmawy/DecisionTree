@@ -1,5 +1,5 @@
 # DecisionTree
- Implementation of decision machine learning tree algoirthm 
+ Implementation of decision tree machine learning algoirthm 
 - R programming language 
 
 The data set available is based on the U.S. congress
